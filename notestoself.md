@@ -8,6 +8,13 @@ The first steps are to walk through the tutorial at https://guides.github.com/ac
 I have created a branch to hold the in process work which can be later merged back into the mail branch per the tutorial above
 In this case the branch I created is called editreadme  go figure
 
+Here is some todo examples
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+
 I notice that people sometimes describe their method of organizing information such as in a 
 
 PKM Primer: An Introduction to Personal Knowledge Management for Creatives
