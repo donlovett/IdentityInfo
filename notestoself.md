@@ -13,7 +13,17 @@ I notice that people sometimes describe their method of organizing information s
 PKM Primer: An Introduction to Personal Knowledge Management for Creatives
 FEBRUARY 8, 2021
 BY MIKE SCHMITZ
-	Personal Knowledge Management systems (or PKMs) are all the rage lately. Collecting and connecting information from bookmarks and blog posts in a sort of “personal wiki” using tools like Roam Research and Obsidian can help you see your ideas from different perspectives. Making connections between your notes and ideas can have big benefits — not just for lifelong learners, but for anyone who is looking to do their best creative work.
+Personal Knowledge Management systems (or PKMs) are all the rage lately. Collecting and connecting information from bookmarks and blog posts in a sort of “personal wiki” using tools like Roam Research and Obsidian can help you see your ideas from different perspectives. Making connections between your notes and ideas can have big benefits — not just for lifelong learners, but for anyone who is looking to do their best creative work.
 
-From <https://thesweetsetup.com/pkm-intro-for-creatives/#> ![image](https://user-images.githubusercontent.com/4370365/115154547-5ee42980-a049-11eb-8d1e-e37a70aced56.png)
 
+But before you can really make the most of personal knowledge management apps and services, you need to understand a little bit about how they work.
+
+PKM Primer: An Introduction to Personal Knowledge Management for Creatives
+FEBRUARY 8, 2021
+BY MIKE SCHMITZ
+Personal Knowledge Management systems (or PKMs) are all the rage lately. Collecting and connecting information from bookmarks and blog posts in a sort of “personal wiki” using tools like Roam Research and Obsidian can help you see your ideas from different perspectives. Making connections between your notes and ideas can have big benefits — not just for lifelong learners, but for anyone who is looking to do their best creative work.
+
+![Image of Connections]https://thesweetsetup.com/wp-content/uploads/2021/02/pkmconnections.jpg
+
+Note:  here is information on using markdown for github
+https://guides.github.com/features/mastering-markdown/
